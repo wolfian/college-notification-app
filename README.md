@@ -9,9 +9,9 @@ Download apk file [here](https://github.com/wolfian/college-project/blob/master/
 
 Screenshots:
 <p float="left">
-  <img src="https://wolfian.github.io/college-project/images/notify1.png" width="100" />
-  <img src="https://wolfian.github.io/college-project/images/notify2.png" width="100" /> 
-  <img src="https://wolfian.github.io/college-project/images/notify3.png" width="100" />
+  <img src="https://github.com/wolfian/college-project/raw/master/images/notify1.jpg" width="100" />
+  <img src="https://github.com/wolfian/college-project/raw/master/images/notify2.jpg" width="100" /> 
+  <img src="https://github.com/wolfian/college-project/raw/master/images/notify3.jpg" width="100" />
 </p>
 
 <p float="left">
