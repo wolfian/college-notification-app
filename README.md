@@ -5,4 +5,4 @@ Final semester project!
 
 Supports android devices running on android 8.0 and above.
 
-Download apk file [a here](https://github.com/wolfian/college-project/blob/master/Notify.apk).
+Download apk file [here](https://github.com/wolfian/college-project/blob/master/Notify.apk).
